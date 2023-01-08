@@ -8,6 +8,20 @@
 <a name="user-content-day1"></a>
 ### Day 1 - Fundamentals of VLSI Design and overview of Sand-to-Silicon
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a name="user-content-day2"></a>
 ### Day 2 - Details of IC Manufacturing Process
 
