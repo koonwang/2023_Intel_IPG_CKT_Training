@@ -7,7 +7,7 @@
 <br>
 <a href="#code">Code and Syntax Highlighting</a>
 <br>
-<a href='#code">Day 1 - Fundamentals of VLSI Design and overview of Sand-to-Silicon</a>
+<a href='#day">Day 1 - Fundamentals of VLSI Design and overview of Sand-to-Silicon</a>
 
 ### Day1
 
@@ -17,17 +17,3 @@
 
 <a href="#code">Code and Syntax Highlighting</a>
 
-         
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
