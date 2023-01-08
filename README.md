@@ -100,8 +100,25 @@ ASIC (Application Specific Integrated Circuit)
 
 4. **VLSI Design Quality**
 
+**Testability**
+  - Generation of good test vector.
+  - Availability of good test fixture at speed.
+  - Design of testable chip.
   
+**Yield and Manufacturability**
+  - Yield: No. of tested ok chips/Total no. of Chips
+  - Functional Yield: Checks at lower speed.
+  - Parametric Yield: Checks at required speed.
+
+**Reliability**
+  - ESD and EOS
+  - Electromigration
+  - Oxide breakdown
+  - Power and ground bouncing
+  - On-chip noise and cross-talk
   
+**Technology Upgradability**
+  - Design style should be chosen such that the technology update of the chip of functional module for design reuse can be achieved quickly with minimal cost.
   
 <br>
 </details>
