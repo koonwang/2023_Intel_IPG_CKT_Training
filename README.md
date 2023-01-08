@@ -35,6 +35,7 @@
 - Single wafer contails ~10k die.
 - General die size is 1mm x 1mm or 2mm x 2mm
 - All eletric components fabricated on each and every single die.
+<br>
 ![image](https://user-images.githubusercontent.com/121998024/211214116-faea14d9-052b-405f-ad9e-f4420f40e5ec.png)
 
 **Packaged Chip**
@@ -44,6 +45,7 @@
   - DIP (Dual-in-Line Package)
   - QFN (Quad Flat No-Lead Package)
   - BGA (Ball Grid Array)
+<br>
 ![image](https://user-images.githubusercontent.com/121998024/211214479-6a1c246d-f587-4969-a005-638e460e7bd8.png)
 
 **Inside the Die**
@@ -51,8 +53,7 @@
 ![image](https://user-images.githubusercontent.com/121998024/211214585-0118cfb3-8977-467d-8853-54786fa3694f.png)
 
 - **Memory and Memory Controller**:
-  - Static Random Access Memory (SRAM)
-  - SRAM controller
+  - Static Random Access Memory (SRAM) and SRAM controller
   
 - **Digital**:
   
