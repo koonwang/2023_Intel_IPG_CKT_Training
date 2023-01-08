@@ -11,7 +11,7 @@
 <details>
 <summary>Theory</summary>
 <br>
-**VLSI Circuit Design Course Details**
+1. **VLSI Circuit Design Course Details**
 
 | Digital Logic Design                | Electric Circuit Design                                        | Semiconductor Devices                     |
 | ------------------------------------|:--------------------------------------------------------------:| -----------------------------------------:|
@@ -25,7 +25,6 @@
 | Assignment
 
 2. **Overview of VLSI Design**
-*Die and Wafer*
 
 
 *Die and Wafer*
