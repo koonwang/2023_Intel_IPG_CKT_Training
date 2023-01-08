@@ -49,10 +49,10 @@
 **Inside the Die**
 Die Structure
 ![image](https://user-images.githubusercontent.com/121998024/211214585-0118cfb3-8977-467d-8853-54786fa3694f.png)
-
+<br>
 - **Memory and Memory Controller**:
- - Static Random Access Memory (SRAM)
- - SRAM controller
+  - Static Random Access Memory (SRAM)
+  - SRAM controller
   
 - **Digital**:
   
