@@ -40,10 +40,10 @@
 **Packaged Chip**
 - Central part of the chip is called die.
 - Types of packaging are
-  - SIP
-  - DIP
-  - QFN
-  - BGA
+  - SIP (Syatem in Packages)
+  - DIP (Dual-in-Line Package)
+  - QFN (Quad Flat No-Lead Package)
+  - BGA (Ball Grid Array)
 
 <br>
 </details>
