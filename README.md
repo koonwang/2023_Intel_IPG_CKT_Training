@@ -30,7 +30,14 @@
 2. **Overview of VLSI Design**
 
 
-*Die and Wafer*
+..**Wafer and Die**
+- Wafer diameter is approximate 12 inch (~300mm)
+- Single wafer contails ~10k die.
+- General die size is 1mm x 1mm or 2mm x 2mm
+- All eletric components fabricated on each and every single die.
+![image](https://user-images.githubusercontent.com/121998024/211214116-faea14d9-052b-405f-ad9e-f4420f40e5ec.png)
+
+
 
 <br>
 </details>
