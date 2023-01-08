@@ -15,19 +15,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### Day 2 - Details of IC Manufacturing Process
 
@@ -35,10 +23,10 @@
 
 
 
-[Headers](#headers)  
+[Headers and topics](#headers and topics)  
 [Emphasis](#emphasis)  
   
 
-## Headers
+## Headers and topics
 
 ## Emphasis
