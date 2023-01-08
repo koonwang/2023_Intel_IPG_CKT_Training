@@ -80,8 +80,27 @@
   - Signal routing between the CLBs and the I/O blocks established by configurable switching matrices
 
 ![image](https://user-images.githubusercontent.com/121998024/211215820-e6b756cf-1b84-4ce0-b78f-fa22a2bc5551.png)
-  
 
+ASIC (Application Specific Integrated Circuit)  
+**Standard Cell Based Design** (aka Semi Custom Design)
+  - Develop a standard cell library which storing all the developed, characterized logic cells.
+  - The height of all cells are always constant for a particular technology (eg: 14nm, 7nm technology)
+  - Each cell is characterized according to several different categories, for example:
+    - Delay time vs load capacitance and input transition
+    - Circuit simulation model, Timing simulation model, Fault simulation model
+    - Cell data for place-and route
+    - Mask data
+
+**Full Custom Design**
+  - No library is using.
+  - Designers has to take care of the geometry, orientation, & placement of every transistors in a full-custom layouts. Causing low profuctivity issue.
+  - High development cost hence, rarely use in digital VLSI design.
+  - All the analog and RF designs are full custom design.
+<br>
+
+4. **VLSI Design Quality**
+
+  
   
   
 <br>
