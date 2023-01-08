@@ -47,8 +47,9 @@
 ![image](https://user-images.githubusercontent.com/121998024/211214479-6a1c246d-f587-4969-a005-638e460e7bd8.png)
 
 **Inside the Die**
-![image](https://user-images.githubusercontent.com/121998024/211214585-0118cfb3-8977-467d-8853-54786fa3694f.png)
 <br>
+![image](https://user-images.githubusercontent.com/121998024/211214585-0118cfb3-8977-467d-8853-54786fa3694f.png)
+
 - **Memory and Memory Controller**:
   - Static Random Access Memory (SRAM)
   - SRAM controller
