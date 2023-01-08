@@ -29,7 +29,6 @@
   
 2. **Overview of VLSI Design**
 
-
 **Wafer and Die**
 - Wafer diameter is approximate 12 inch (~300mm)
 - Single wafer contails ~10k die.
@@ -69,8 +68,10 @@
   - All are made and designed by custom VLSI design flow.
  <br>
 
-3. VLSI Design Methodology
-
+3. **VLSI Design Methodology**
+-Proper functionality, low cost & time saving
+  - FPGA Based Design
+  
   
 
 <br>
