@@ -26,7 +26,7 @@
 | Timing Diagrams                     | Assignment                                                     | Assignment                                |
 | Assignment
 
-
+  
 2. **Overview of VLSI Design**
 
 
