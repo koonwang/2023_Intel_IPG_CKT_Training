@@ -19,7 +19,7 @@
 | Combinational Lofic Circuit         | KCL & KVL                                                      | Drift & Diffusion                         |
 | Mux and Decoder based logic designs | Mesh and Nodal Analysis                                        | Intrinsic and Extrinsic Semiconductor     |
 | Sequential Logic Circuits           | Circuit Theorem: Superposition, Thevenin's                     | Semiconductor Diode, BJT & MOSFET         |
-| Logic states                        | RC circuits and Transients                                     | Operation, Characteristics & Band Diagram |
+| Logic states                        | RC circuits and Transients                                       | Operation, Characteristics & Band Diagram |
 | Timing Diagrams                     | Assignment                                                     | Assignment                                |
 | Assignment
 </details>
