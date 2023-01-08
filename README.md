@@ -38,6 +38,7 @@
 [Headers](#headers)  
 [Emphasis](#emphasis)  
   
-<a name="headers"/>
+
 ## Headers
-         
+<br>
+## Emphasis
