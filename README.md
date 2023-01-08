@@ -25,8 +25,8 @@
 | Logic states                        | RC circuits and Transients                                     | Operation, Characteristics & Band Diagram |
 | Timing Diagrams                     | Assignment                                                     | Assignment                                |
 | Assignment
-
 <br>
+  
 2. **Overview of VLSI Design**
 
 
