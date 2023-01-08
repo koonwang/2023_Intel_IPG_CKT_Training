@@ -7,7 +7,7 @@
 <br>
 <a href="#code">Code and Syntax Highlighting</a>
 <br>
-<a href="#day">Day 1</a>
+<a href="#day">Day 1 - Fundamentals of VLSI Design and overview of Sand-to-Silicon</a>
 
 ### Day1
 
