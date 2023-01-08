@@ -67,7 +67,12 @@
     - Amplifiers & Filters
     - Interfaces (ADC & DAC)
   - All are made and designed by custom VLSI design flow.
+ <br>
+
+3. VLSI Design Methodology
+
   
+
 <br>
 </details>
 
