@@ -9,7 +9,7 @@
 <a name="user-content-one"></a>
 ### Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
 <details>
-<summary>**Theory**</summary>
+<summary>Theory</summary>
 <br>
 **VLSI Circuit Design Course Details**
 
@@ -25,12 +25,11 @@
 | Assignment
 
 2. **Overview of VLSI Design**
-*Die and Wafer
-
-</details>
+*Die and Wafer*
 
 
-
+*Die and Wafer*
+  
 
 
 
