@@ -17,3 +17,12 @@
 
 <a href="#code">Code and Syntax Highlighting</a>
 
+
+         
+         
+         
+         
+[I'm an inline-style link](https://www.google.com)
+
+
+Or leave it empty and use the [link text itself].
