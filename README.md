@@ -11,7 +11,7 @@
 <details>
 <summary>Theory</summary>
 <br>
-1. **VLSI Circuit Design Course Details**
+1.**VLSI Circuit Design Course Details**
 
 | Digital Logic Design                | Electric Circuit Design                                        | Semiconductor Devices                     |
 | ------------------------------------|:--------------------------------------------------------------:| -----------------------------------------:|
