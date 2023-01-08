@@ -56,6 +56,17 @@
   - Static Random Access Memory (SRAM) and SRAM controller
   
 - **Digital**:
+  - Made up of gates, muxes, decoders, counters, resistors, FSM, & etc...
+  - All are made by standard cells and deigned by using semicustom VLSI design flow.
+
+- **Analog & RF**:
+  - Consists of:
+    - Clock component (VCO and PLL)
+    - Reference and registered voltage (Bandgap reference, LDO, DC-DC converter)
+    - Data component (PRBS generator)
+    - Amplifiers & Filters
+    - Interfaces (ADC & DAC)
+  - All are made and designed by custom VLSI design flow.
   
 <br>
 </details>
