@@ -8,6 +8,10 @@
 
 <a name="user-content-one"></a>
 ### Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
+<details>
+<summary>Theory</summary>
+# Theory
+</details>
 
 
 
