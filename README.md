@@ -8,12 +8,10 @@
 
 <a name="user-content-one"></a>
 ### Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
-<details>
+
 <summary>Theory</summary>
 <br>
 1. **VLSI Circuit Design Course Details**
-<br>
-2. **Overview of VLSI Design**
 
 | Digital Logic Design                | Electric Circuit Design                                        | Semiconductor Devices                     |
 | ------------------------------------|:--------------------------------------------------------------:| -----------------------------------------:|
