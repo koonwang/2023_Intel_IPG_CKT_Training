@@ -22,7 +22,7 @@
          
          
          
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](#i'm an inline-style link)
 
 
 Or leave it empty and use the [link text itself].
