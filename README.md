@@ -37,7 +37,13 @@
 - All eletric components fabricated on each and every single die.
 ![image](https://user-images.githubusercontent.com/121998024/211214116-faea14d9-052b-405f-ad9e-f4420f40e5ec.png)
 
-
+**Packaged Chip**
+- Central part of the chip is called die.
+- Types of packaging are
+  - SIP
+  - DIP
+  - QFN
+  - BGA
 
 <br>
 </details>
