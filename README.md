@@ -44,7 +44,9 @@
   - DIP (Dual-in-Line Package)
   - QFN (Quad Flat No-Lead Package)
   - BGA (Ball Grid Array)
+![image](https://user-images.githubusercontent.com/121998024/211214479-6a1c246d-f587-4969-a005-638e460e7bd8.png)
 
+  
 <br>
 </details>
 
