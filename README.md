@@ -163,4 +163,19 @@ ASIC (Application Specific Integrated Circuit)
 <a name="user-content-two"></a>
 ### Day 2 - Details of IC Manufacturing Process
 
+<details>
+<summary>Theory</summary>
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Lab</summary>
+<br>
+
+<br>
+</details>
+
+
 
