@@ -25,7 +25,7 @@
 | Logic states                        | RC circuits and Transients                                     | Operation, Characteristics & Band Diagram |
 | Timing Diagrams                     | Assignment                                                     | Assignment                                |
 | Assignment
-
+<br>
 
 2. **Overview of VLSI Design**
 
@@ -40,7 +40,7 @@
 
 
 
-
+<br>
 <a name="user-content-two"></a>
 ### Day 2 - Details of IC Manufacturing Process
 
