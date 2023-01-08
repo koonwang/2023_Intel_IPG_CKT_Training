@@ -119,9 +119,36 @@ ASIC (Application Specific Integrated Circuit)
   
 **Technology Upgradability**
   - Design style should be chosen such that the technology update of the chip of functional module for design reuse can be achieved quickly with minimal cost.
+<br>
+
+5. **Types of Package**
   
+**Pin-through-hole (PTH)**
+  - Drill holes in PCB, high cost in soldering process.
+
+![image](https://user-images.githubusercontent.com/121998024/211217332-e14672dc-a8eb-4b9e-a158-adb58bf94142.png)
+
+**Surface Mount Technology (SMT)**
+  - Solder the die directly on the PCB, cost and space saving,but expensive tools needed for soldering.
+  
+![image](https://user-images.githubusercontent.com/121998024/211217392-0a8c4590-da08-4486-83f3-cd6635968227.png)
+
+**Plastic**
+  - Dominant for many years but it has the disadvantage of being permeable to environmental moisture.
+  
+**Ceramic**
+  - Power consumption, performance and environmental requirements.
+<br>
+  
+6. **Evolution of Package Technology**
+
+![image](https://user-images.githubusercontent.com/121998024/211217543-04bd2680-0a5f-4c29-b196-4c869a5e67b9.png)
+
+![image](https://user-images.githubusercontent.com/121998024/211217561-8e0d2810-addc-4e7d-8f41-e20fce3f06c7.png)
+ 
 <br>
 </details>
+
 
 
 <details>
