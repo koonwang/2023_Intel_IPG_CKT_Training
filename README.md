@@ -10,12 +10,13 @@
 ### Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
 <details>
 <summary>Theory</summary>
-x
-x
-x
-x
-x
-x
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </details>
 
 
