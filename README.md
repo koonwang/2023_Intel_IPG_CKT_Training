@@ -10,15 +10,15 @@
 ### Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
 <details>
 <summary>Theory</summary>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Prerequisites for VLSI Circuit Design
+  
+| Digital Logic Design       | Electric Circuit Design         | Semiconductor Devices  |
+| -------------------------- |:-------------------------------:| ----------------------:|
+| Logic gates                | right-aligned                   | $1600                  |
+| Truth table and K-Map      | centered                        |   $12                  |
+| Combinational Lofic Circuit| are neat                        |    $1                  |
+| Mux and Decoder
 </details>
-
 
 
 
