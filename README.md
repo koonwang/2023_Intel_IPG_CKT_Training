@@ -7,7 +7,7 @@
 <br>
 <a href="#code">Code and Syntax Highlighting</a>
 <br>
-<a href='#code">Code and Syntax Highlighting</a>
+<a href="#code">Code and Syntax Highlighting</a>
 
 ### Day1
 
