@@ -69,12 +69,21 @@
  <br>
 
 3. **VLSI Design Methodology**
-<br>
--Proper functionality, low cost & time saving
-  - FPGA Based Design
   
+**Field Programming Gate Array (FPGA) Based Design**
+  - Faster prototyping and cost-saving
+  - FPGA chip consists of:
+    - Input/output buffers
+    - Array of configurable logic blocks (CLBs)
+    - Programmable interconnect structures
+  - The programming of interconnects is achieved by programming of RAM
+  - Signal routing between the CLBs and the I/O blocks established by configurable switching matrices
+
+![image](https://user-images.githubusercontent.com/121998024/211215820-e6b756cf-1b84-4ce0-b78f-fa22a2bc5551.png)
   
 
+  
+  
 <br>
 </details>
 
