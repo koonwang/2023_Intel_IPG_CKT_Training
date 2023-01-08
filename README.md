@@ -10,14 +10,18 @@
 ### Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
 <details>
 <summary>Theory</summary>
-Prerequisites for VLSI Circuit Design
+1. VLSI Circuit Design Course Details
   
-| Digital Logic Design       | Electric Circuit Design         | Semiconductor Devices  |
-| -------------------------- |:-------------------------------:| ----------------------:|
-| Logic gates                | right-aligned                   | $1600                  |
-| Truth table and K-Map      | centered                        |   $12                  |
-| Combinational Lofic Circuit| are neat                        |    $1                  |
-| Mux and Decoder
+| Digital Logic Design                | Electric Circuit Design                                        | Semiconductor Devices                     |
+| ------------------------------------|:--------------------------------------------------------------:| -----------------------------------------:|
+| Logic gates                         | Resistor, capacitor, inductor, voltage source & current source | Conductor, semicondictor & insulator      |
+| Truth table and K-Map               | Charge, current, voltage, power, & energy                      | Silicon & Germanium                       |
+| Combinational Lofic Circuit         | KCL & KVL                                                      | Drift & Diffusion                         |
+| Mux and Decoder based logic designs | Mesh and Nodal Analysis                                        | Intrinsic and Extrinsic Semiconductor     |
+| Sequential Logic Circuits           | Circuit Theorem: Superposition, Thevenin's                     | Semiconductor Diode, BJT & MOSFET         |
+| Logic states                        | RC circuits and Transients                                     | Operation, Characteristics & Band Diagram |
+| Timing Diagrams                     | Assignment                                                     | Assignment                                |
+| Assignment
 </details>
 
 
