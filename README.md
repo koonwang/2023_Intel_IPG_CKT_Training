@@ -10,8 +10,9 @@
 ### Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
 <details>
 <summary>Theory</summary>
+
 1. VLSI Circuit Design Course Details
-  
+
 | Digital Logic Design                | Electric Circuit Design                                        | Semiconductor Devices                     |
 | ------------------------------------|:--------------------------------------------------------------:| -----------------------------------------:|
 | Logic gates                         | Resistor, capacitor, inductor, voltage source & current source | Conductor, semicondictor & insulator      |
