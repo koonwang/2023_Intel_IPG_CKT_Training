@@ -2,22 +2,11 @@
 
 ## Table of Contents
 [Day1](#day1)
+[Day2](#day2)
 
 ## Day1
 
 
-
-## Table of Contents
-[Orange](#orange)
-
-<a name="orange"/>
-
-### Orange
+## Day2
 
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...  
-<a name="headers"/>
-## Headers
