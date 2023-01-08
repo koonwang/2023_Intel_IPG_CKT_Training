@@ -69,6 +69,7 @@
  <br>
 
 3. **VLSI Design Methodology**
+<br>
 -Proper functionality, low cost & time saving
   - FPGA Based Design
   
