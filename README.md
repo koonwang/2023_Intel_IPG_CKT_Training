@@ -1,9 +1,9 @@
 # 2023 Intel IPG CKT Training
 
 ## Table of Contents
-[Day 1](#day 1)
+[Day1](#day1)
 
-## Day 1
+## Day1
 
 
 
