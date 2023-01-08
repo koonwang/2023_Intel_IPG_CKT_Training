@@ -31,16 +31,17 @@
 
 
 *Die and Wafer*
-  
-
-
-
-
-
-
-
 
 <br>
+</details>
+
+
+
+
+
+
+
+
 <a name="user-content-two"></a>
 ### Day 2 - Details of IC Manufacturing Process
 
