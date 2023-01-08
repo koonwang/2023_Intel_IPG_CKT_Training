@@ -2,11 +2,10 @@
 
 ## Table of Contents
 [Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon](#day 1 - fundamentals of vlsi design and overview of sand-to-silicon)
-[Headers](#headers)
 ...snip...
-<a name="headers"/>
+<a name="day 1 - fundamentals of vlsi design and overview of sand-to-silicon"/>
 ## Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon
-## Headers
+
 
 
 ##### Table of Contents  
