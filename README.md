@@ -175,7 +175,7 @@ ASIC (Application Specific Integrated Circuit)
 | -------------------------------------|:--------------------------------------------------------------:| ---------------------------------------------------:|
 | Electrical design is a process of implementing the specifications to a circuit.| Physical design is a process of representing electrical design into a layout which consists of many distinct geometrical rectangle at various levels. | Test design is a process of coordinating, planning, and implementing the measurement of the analog integrated circuit performance. |
 | Electrical design requires active and passive device electrical models for: | Physical design requires:     | Types of test:                                |         
-| - Creating the desi                                                         | - Entering various geometries | - Functional                                  |
+| - Creating the design                                                       | - Entering various geometries | - Functional                                  |
 | - Verifying the design                                                      | - Follows DRC                 | - Parametric                                  |
 | - Determining the robustness of the design                                  | - Check LVS                   | - Static                                      |         |                                                                             | - Extract parasitic           | - Dynamic                                     |        
 <br>
