@@ -192,6 +192,8 @@ limits, technology constraints and physical implementations as the physical impl
 power and cost.
 - Circuit designer need to have a very good understanding of layout design, so that in less iterations the design can be fridged.
 - Circuit designer should always discuss with the layout designer for better and efficient circuit design and physical implementation. 
+
+4. CMOS Technology  
   
 <br>
 </details>
