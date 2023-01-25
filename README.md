@@ -167,6 +167,39 @@ ASIC (Application Specific Integrated Circuit)
 <summary>Theory</summary>
 <br>
 
+1. **Analog IC Design Process**
+
+![image](https://user-images.githubusercontent.com/121998024/214596783-1040ff01-5b26-40a9-9fbf-8b29831627f6.png)
+
+| Electrical Design                    | Physical Design                                                | Test Design                                         |
+| -------------------------------------|:--------------------------------------------------------------:| ---------------------------------------------------:|
+| Electrical design is a process of    | Physical design is a process of representing electrical design | Test design is a process of coordinating, planning, |
+| implementing the specifications to   | into a layout whcih consists of many distinct geometrical      | and implementing the measurement of the analog      |
+| a circuit.                           | rectangle at various levels.                                   | integrated circuit performance.                     |
+|                                      |                                                                |                                                     |
+| Electrical design requires active    | Physical design requires:                                      | Types of test:                                      |
+| and passive device electrical models | - entering various geometries                                  | - Functional                                        |
+| for:                                 | - Follows DRC                                                  | - Parametric                                        |
+| - Creating the design                | - Check LVS                                                    | - Static                                            |
+| - Verifying the design               | - Extract parasitic                                            | - Dynamic                                           |
+| - Determining the robustness of the  |                                                                |                                                     |
+|   design                             |                                                                |                                                     |
+|                                      |                                                                |                                                     |
+<br>
+ 
+2. **Analog IC Design Process and its Relation with CAD and PDK**  
+
+![image](https://user-images.githubusercontent.com/121998024/214637527-2c857592-546d-4888-b321-9e022169a75a.png)
+
+3. **Role of Circuit Designer**
+
+The reason why it is so important that a VLSI circuit designer need to have a deeper understading on a CMOS manufacturing process:
+- Instead of an ideal circuit, a circuit designer should always design a practical circuit based on the device
+limits, technology constraints and physical implementations as the physical implementation of the circuit has a major impact on performance,
+power and cost.
+- Circuit designer need to have a very good understanding of layout design, so that in less iterations the design can be fridged.
+- Circuit designer should always discuss with the layout designer for better and efficient circuit design and physical implementation. 
+  
 <br>
 </details>
 
