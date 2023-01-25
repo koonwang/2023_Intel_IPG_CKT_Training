@@ -173,13 +173,11 @@ ASIC (Application Specific Integrated Circuit)
 
 | Electrical Design                    | Physical Design                                                | Test Design                                         |
 | -------------------------------------|:--------------------------------------------------------------:| ---------------------------------------------------:|
-| Electrical design is a process of    | Physical design is a process of representing electrical design | Test design is a process of coordinating, planning, |
-| implementing the specifications to   | into a layout whcih consists of many distinct geometrical      | and implementing the measurement of the analog      |
-| a circuit.                           | rectangle at various levels.                                   | integrated circuit performance.                     |
+| Electrical design is a process of implementing the specifications to a circuit.| Physical design is a process of representing electrical design into a layout which consists of many distinct geometrical rectangle at various levels. | Test design is a process of coordinating, planning, and implementing the measurement of the analog integrated circuit performance. |
 |                                      |                                                                |                                                     |
 | Electrical design requires active    | Physical design requires:                                      | Types of test:                                      |
-| and passive device electrical models | - entering various geometries                                  | - Functional                                        |
-| for:                                 | - Follows DRC                                                  | - Parametric                                        |
+  and passive device electrical models | - entering various geometries                                  | - Functional                                        |
+  for:                                 | - Follows DRC                                                  | - Parametric                                        |
 | - Creating the design                | - Check LVS                                                    | - Static                                            |
 | - Verifying the design               | - Extract parasitic                                            | - Dynamic                                           |
 | - Determining the robustness of the  |                                                                |                                                     |
