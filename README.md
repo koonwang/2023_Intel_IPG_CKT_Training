@@ -183,6 +183,7 @@ ASIC (Application Specific Integrated Circuit)
 2. **Analog IC Design Process and its Relation with CAD and PDK**  
 
 ![image](https://user-images.githubusercontent.com/121998024/214637527-2c857592-546d-4888-b321-9e022169a75a.png)
+<br>
 
 3. **Role of Circuit Designer**
 
@@ -192,8 +193,36 @@ limits, technology constraints and physical implementations as the physical impl
 power and cost.
 - Circuit designer need to have a very good understanding of layout design, so that in less iterations the design can be fridged.
 - Circuit designer should always discuss with the layout designer for better and efficient circuit design and physical implementation. 
+<br>
 
-4. CMOS Technology  
+4. **CMOS Technology**
+
+Why We Use CMOS Technology In IC Design
+Please refer to the comparison of MOSFET and BJT from an analog viewpoint [Allen-Holberg]
+
+| Comparison Feature                   | BJT                                         | MOSFET                                |
+| -------------------------------------|:-------------------------------------------:| -------------------------------------:|
+| Cut-off Frequency (FT)               | High                                        | Less                                  |
+| Noise (at same thermal noise)        | Less 1/f                                    | More 1/f                              |
+| DC Range of Operation                | 9 decades of exponential current versus VBE | 2-3 decades of square law behaviour   |
+| Transconductance (Same Current)      | Larger by 10X                               | Smaller by 10X                        |
+| Small Signal Output Resistance       | Slightly larger                             | Smaller for short channel             |
+| Switch Implementation                | Poor                                        | Good                                  |
+| Capacitor                            | Voltage dependent                           | More option                           |
+| Performance/Power Ratio              | High                                        | Low                                   |
+| Technology Improvement               | Slower                                      | Faster                                |
+
+- Almost every comparison favours BJT, however a similar comparison made from digital viewpoint would come up on the side of CMOS. Since large volume mixed-mode technology will be driven by digital demands, CMOS is an obvious choice.
+<br>
+
+**Categorization of the CMOS Technology**
+- Submicron Technology: Lmin ≥ 0.35 µm
+- Deep Submicron Technology (DSM): 0.1 µm ≤ Lmin ≤ 0.35 µm
+- Ultra-Deep Submicron Technology (UDSM): Lmin ≤ 0.1 µm
+- BiCMOS Technology: Lmin = 0.5 µm  
+<br>
+
+  
   
 <br>
 </details>
