@@ -276,7 +276,7 @@ Process Steps:
 <details>
 <summary>4. Silicon Dioxide (Sio2)</summary>
 
-- Oxidation of silicon is achieved by heating silicon wafers in an oxidizing atmosphere. Thefollowing are some common approaches:
+- Oxidation of silicon is achieved by heating silicon wafers in an oxidizing atmosphere. The following are some common approaches:
   - Wet Oxidation: when the oxidizing atmosphere contains water vapor.
     - The temperature is usually between 900 °C and 1000 °C.
     - Wet oxidation is a rapid process.
@@ -343,6 +343,9 @@ Process Steps:
 - Metrology is the science of measuring. Everything that is built in a semiconductor process has to be measured to give feedback to the manufacturing process.
 <br>
 </details>
+
+<details>
+<summary>CMOS Fabrication Process Steps in Diagram</summary>  
   
 <br>
 </details>
