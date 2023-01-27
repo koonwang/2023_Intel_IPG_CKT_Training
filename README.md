@@ -223,7 +223,26 @@ Please refer to the comparison of MOSFET and BJT from an analog viewpoint [Allen
 - BiCMOS Technology: Lmin = 0.5 µm  
 <br>
 
+5. **CMOS Fabrication Process**  
+<br>  
+Process Steps:  
+
+<details>
+<summary>1. Wafer Formation (Sand-to-Silicon)</summary>
+
+- The raw material used in CMOS fabs is a wafer or disk of silicon, roughly 75mm to 300mm (12 inch) in diameter and less than 1mm thick.
+- Wafers are cut from boules, cylindrical ingots of singlecrystal silicon, that have been pulled from a crucible of pure molten silicon.
+- Controlled amounts of impurities are added to the melt to provide the crystal with the required electrical properties.
+- A seed crystal is dipped into the melt to initiate crystal growth.
+- The seed is gradually withdrawn vertically from the melt while simultaneously being rotated, as shown in Figure below.
+
+![image](https://user-images.githubusercontent.com/121998024/215014614-80bdaeb4-05a4-4b4a-9345-c9196570c605.png)
+
+- The molten silicon attaches itself to the seed and recrystallizes as it is withdrawn.
+- The seed withdrawal and rotation rates determine the diameter of the ingot.
+- Growth rates vary from 30 to 180 mm/hour.
   
+
   
 <br>
 </details>
