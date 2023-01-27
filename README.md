@@ -242,7 +242,8 @@ Process Steps:
 - The seed withdrawal and rotation rates determine the diameter of the ingot.
 - Growth rates vary from 30 to 180 mm/hour.
   
-
+<br>
+</details>
   
 <br>
 </details>
