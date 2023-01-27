@@ -386,6 +386,63 @@ Process Steps:
   
 ![image](https://user-images.githubusercontent.com/121998024/215081772-3ea4bb9b-0310-4176-8280-ee3fdeee4dac.png)
 
+8. **Strip Oxide**
+- Remaining oxide is stripped off using Hydrofluoric acid, HF
+  
+![image](https://user-images.githubusercontent.com/121998024/215082586-effe906b-e7c2-48d1-a138-81ae170f6985.png)
+
+![image](https://user-images.githubusercontent.com/121998024/215082653-bdbc5563-296d-4874-9444-00dd3b5b239d.png)
+
+9. **Thin Oxide Deposition**
+- A very thin layer of gate oxide is deposited.
+
+ ![image](https://user-images.githubusercontent.com/121998024/215083644-e6234c76-c4e3-44f3-ac52-0877703eed41.png)
+
+10. **Polysilicon Deposition**
+- Chemical Vapor Deposition (CVD) of silicon layer to form polysilicon.
+  
+![image](https://user-images.githubusercontent.com/121998024/215084250-75169e71-9c35-4b67-ab27-215139a6551e.png)
+
+11. **Polysilicon Patterning**
+- Lithography process is applied to pattern the polysilicon.
+  
+![image](https://user-images.githubusercontent.com/121998024/215084844-9ddc7db2-33d8-4342-8bd4-5c89c0864d6b.png)
+  
+![image](https://user-images.githubusercontent.com/121998024/215084975-1c4a546a-ea7f-4814-a6b1-3fda2cc930b3.png)
+
+12. **Thick Oxide Deposition**
+
+![image](https://user-images.githubusercontent.com/121998024/215085832-a857afbf-0c66-420c-8c6f-7fcc9bf30176.png)
+
+13. **Etching of Thick Oxide**
+
+![image](https://user-images.githubusercontent.com/121998024/215086205-2285f6e4-408c-4ebe-80ee-9d86beee2d5e.png)
+
+![image](https://user-images.githubusercontent.com/121998024/215086283-b602b25d-d6ed-453d-94c8-e2c80c18f990.png)
+
+14. **N+ Diffusion Region Creation**
+- N+ diffusion for NMOS source and drain are formed.
+  
+![image](https://user-images.githubusercontent.com/121998024/215086509-8facbe8d-a3ff-471f-a704-9764049d17f0.png)
+
+15. **Etching of Thick Oxide**
+- Oxide is stripped off to complete the patterning step.
+  
+![image](https://user-images.githubusercontent.com/121998024/215086786-bacf1fad-8b3a-42cd-820b-75b452a3fa64.png)
+
+![image](https://user-images.githubusercontent.com/121998024/215086974-1203a87f-0b20-469d-a589-13ab1f5e381f.png)
+
+16. **P+ Diffusion Region Creation**
+- P+ diffusion region for PMOS source and drain are formed along with substrate contact.
+
+![image](https://user-images.githubusercontent.com/121998024/215087576-1372f107-5c09-4957-9750-02ab0bb1653e.png)
+
+![image](https://user-images.githubusercontent.com/121998024/215087665-237e8c59-dd22-4a38-9ed1-7bbdac62f414.png)
+
+17. **  
+
+
+
   
   
 <br>
