@@ -152,7 +152,7 @@ ASIC (Application Specific Integrated Circuit)
 
 
 <details>
-<summary>Lab</summary>
+<summary>Assignment</summary>
 <br>
 
 <br>
@@ -465,7 +465,7 @@ Process Steps:
 </details>
 
 <details>
-<summary>Lab</summary>
+<summary>Assignment</summary>
 <br>
 
 <br>
