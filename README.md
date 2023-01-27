@@ -302,8 +302,47 @@ Process Steps:
 <br>
 </details>  
 
+<details>
+<summary>6. Gate Oxide</summary>
+
+- This is the process is to form the gate oxide for the transistors. As mentioned, this is most commonly in the form of silicon dioxide (SiO2).The transistor gate consists of a thin gate oxide layer.
+<br>
+</details>
   
+<details>
+<summary>7. Gate and Source/Drain Formations</summary>
+
+- Grow gate oxide wherever transistors are required (area = source + drain + gate)––elsewhere there will be thick oxide or trench isolation.
+- Deposit polysilicon on chip.
+- Pattern polysilicon (both gates and interconnect)
+- Etch exposed gate oxide—i.e., the area of gate oxide where transistors are required that was not covered by polysilicon; at this stage, the chip has windows down to the well or substrate wherever a source/drain diffusion is required.
+- Implant pMOS and nMOS source/drain regions.
+<br>
+</details>
+
+<details>
+<summary>8. Contacts and Metallization</summary>  
+
+- Contact cuts are made to source, drain, and gate according to the contact mask. These are holes etched in the dielectric after the source/drain formation.
+- Older processes commonly use aluminum (Al) for wires, although newer ones offer copper (Cu) for lower resistance.
+- Tungsten (W) can be used as a plug to fill the contact holes (to alleviate problems of aluminum not conforming to small contacts).
+<br>
+</details>
+
+<details>
+<summary>9. Passivation</summary>
   
+- The final processing step is to add a protective glass layer called passivation or over glass that prevents the ingress of contaminants.
+- Openings in the passivation layer, called overglass cuts, allow connection to I/O pads and test probe points if needed.
+<br>
+</details>
+  
+<details>
+<summary>10. Metrology</summary>
+
+- Metrology is the science of measuring. Everything that is built in a semiconductor process has to be measured to give feedback to the manufacturing process.
+<br>
+</details>
   
 <br>
 </details>
