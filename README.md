@@ -369,6 +369,23 @@ Process Steps:
 
 ![image](https://user-images.githubusercontent.com/121998024/215075909-5e6bc0bb-852d-4e9c-baec-04b677e8c473.png)
   
+5. **Etching**
+- Oxide layer is etched with Hydrofluoric acid where this acid only attacks oxide.
+
+![image](https://user-images.githubusercontent.com/121998024/215080709-b258dd16-3f0e-4044-b936-d1f9d769c6d8.png)
+
+6. **Strip Photoresist**
+- The remaining photoresist is stripped off using the micture of acids called the piranah etch.
+  
+![image](https://user-images.githubusercontent.com/121998024/215081081-93d96320-00c8-47d2-9876-42cb3754605e.png)
+
+![image](https://user-images.githubusercontent.com/121998024/215081173-f269fc03-2b45-459f-89e2-6884b99c507f.png)
+
+7. **N-well Creation**
+- N-well is formed with diffusion or ion implantation.
+  
+![image](https://user-images.githubusercontent.com/121998024/215081772-3ea4bb9b-0310-4176-8280-ee3fdeee4dac.png)
+
   
   
 <br>
