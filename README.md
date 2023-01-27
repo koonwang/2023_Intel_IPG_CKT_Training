@@ -439,12 +439,25 @@ Process Steps:
 
 ![image](https://user-images.githubusercontent.com/121998024/215087665-237e8c59-dd22-4a38-9ed1-7bbdac62f414.png)
 
-17. **  
-
-
-
+17. **Thick Oxide Deposition**
+- The chip is covered with thick field oxide.
   
+![image](https://user-images.githubusercontent.com/121998024/215088484-f20ed51b-b1d2-4439-9bf9-18e557f6aa77.png)
+
+- The oxide is then etched where contact cuts are needed.
+
+![image](https://user-images.githubusercontent.com/121998024/215088749-f66fe27a-e8c8-4d97-bf56-e9ba4b098373.png)
+
+![image](https://user-images.githubusercontent.com/121998024/215088889-80b4f881-b150-4a9d-8a89-c7eec8f19304.png)
+
+18. **Contact Creation**
+
+![image](https://user-images.githubusercontent.com/121998024/215089304-dd4512a7-0095-4679-b193-ea770e90ef95.png)
   
+19. **Metalization**
+- It is patterned to remove access metal.
+
+![image](https://user-images.githubusercontent.com/121998024/215089683-3b16ace6-373d-40c8-9e7e-8fc47cffbbc2.png)  
 <br>
 </details>  
   
