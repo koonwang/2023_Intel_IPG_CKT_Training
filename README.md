@@ -224,7 +224,7 @@ Please refer to the comparison of MOSFET and BJT from an analog viewpoint [Allen
 <br>
 
 5. **CMOS Fabrication Process**  
-<br>  
+ 
 Process Steps:  
 
 <details>
