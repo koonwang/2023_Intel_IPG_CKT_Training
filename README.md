@@ -345,7 +345,11 @@ Process Steps:
 </details>
 
 <details>
-<summary>CMOS Fabrication Process Steps in Diagram</summary>  
+<summary>CMOS Fabrication Process Steps Illustration</summary>  
+
+1. **Substrate Creation**
+![image](https://user-images.githubusercontent.com/121998024/215072649-8dc2d5e5-9d0d-4eae-b580-06836e0667c5.png)
+
   
 <br>
 </details>
