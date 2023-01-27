@@ -357,6 +357,19 @@ Process Steps:
   
 ![image](https://user-images.githubusercontent.com/121998024/215073368-bbfed27e-2c78-48ed-8163-baf20d217a8c.png)
   
+3. **Photoresist**
+- Deposit a layer of photoresist where photoresist is a light sensitive organic polymer. It will softens when exposed to the light.
+  
+![image](https://user-images.githubusercontent.com/121998024/215074993-c8f55a40-cd13-4161-ae39-3a8ac83a0ccd.png)
+
+4. **Lithography**
+- Photoresist is exposed through the n-well mask.
+
+![image](https://user-images.githubusercontent.com/121998024/215075697-f1bd3128-f88a-4c7a-b84e-7e0b116fb45e.png)
+
+![image](https://user-images.githubusercontent.com/121998024/215075909-5e6bc0bb-852d-4e9c-baec-04b677e8c473.png)
+  
+  
   
 <br>
 </details>  
