@@ -231,6 +231,9 @@ Process Steps:
 <summary>1. Wafer Formation (Sand-to-Silicon)</summary>
 
 - The raw material used in CMOS fabs is a wafer or disk of silicon, roughly 75mm to 300mm (12 inch) in diameter and less than 1mm thick.
+
+![image](https://user-images.githubusercontent.com/121998024/215015972-565ed30e-ef4a-4e7c-86cb-ea0ce3f6cd87.png)
+    
 - Wafers are cut from boules, cylindrical ingots of singlecrystal silicon, that have been pulled from a crucible of pure molten silicon.
 - Controlled amounts of impurities are added to the melt to provide the crystal with the required electrical properties.
 - A seed crystal is dipped into the melt to initiate crystal growth.
@@ -240,8 +243,7 @@ Process Steps:
 
 - The molten silicon attaches itself to the seed and recrystallizes as it is withdrawn.
 - The seed withdrawal and rotation rates determine the diameter of the ingot.
-- Growth rates vary from 30 to 180 mm/hour.
-  
+- Growth rates vary from 30 to 180 mm/hour.  
 <br>
 </details>
   
