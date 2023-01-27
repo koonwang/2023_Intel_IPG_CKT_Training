@@ -246,6 +246,64 @@ Process Steps:
 - Growth rates vary from 30 to 180 mm/hour.  
 <br>
 </details>
+
+<details>
+<summary>2. Photolithography</summary>
+
+- The patterning is achieved by a process called photolithography.
+- The primary method for defining areas of interest (i.e., where we want material to be present or absent) on a wafer is by the use of photoresists.
+- The wafer is coated with the photoresist and subjected to selective illumination through the photomask.
+- A photomask is constructed with chromium (chrome) covered quartz glass. A UV light source is used to expose the photoresist.
+- A developer solvent is then used to dissolve the soluble unexposed photoresist, leaving islands of insoluble exposed photoresist.
+  
+![image](https://user-images.githubusercontent.com/121998024/215020673-3184bad6-3f3e-420b-9461-bbf630fe5b4d.png)
+<br>
+</details>
+
+<details>
+<summary>3. Well and Channel Formation</summary>
+
+- There are 4 CMOS technology processes
+  - **N-well process**: In a n-well process, the pMOS transistors are built in a n-well and the nMOS transistor is placed in the p-type substrate.
+  - **P-well process**: In a p-well process, the nMOS transistors are built in a p-well and the pMOS transistor is placed in the n-type substrate. p-well processes were used to optimize the pMOS transistor performance.
+  - **Twin-well process**: Twin-well processes accompanied the emergence of n-well processes. A twinwell process allows the optimization of each transistor type.
+  - **Triple-well process**: The triple-well process has emerged to provide good isolation between analog and digital blocks in mixed-signal chips; it is also used to    isolate high-density dynamic memory from logic.
+
+![image](https://user-images.githubusercontent.com/121998024/215021729-239e5132-6b99-4a19-802a-e5b6c0b027cc.png)
+<br>
+</details>  
+
+<details>
+<summary>4. Silicon Dioxide (Sio2)</summary>
+
+- Oxidation of silicon is achieved by heating silicon wafers in an oxidizing atmosphere. Thefollowing are some common approaches:
+  - Wet Oxidation: when the oxidizing atmosphere contains water vapor.
+    - The temperature is usually between 900 °C and 1000 °C.
+    - Wet oxidation is a rapid process.
+  
+  - Dry Oxidation: when the oxidizing atmosphere is pure oxygen.
+    - Temperatures are in the region of 1200 °C to achieve an acceptable growth rate.
+    - Dry oxidation forms a better quality oxide than wet oxidation.
+    - It is used to form thin, highly controlled gate oxides, while wet oxidation may be used to form thick field oxides.
+  
+- Atomic Layer Deposition (ALD): when a thin chemical layer (material A) is attached to a surface and then a chemical (material B) is introduced to produce a thin layer of the required layer (i.e., SiO2––this can also be used for other various dielectrics and metals).
+<br>
+</details>
+
+<details>
+<summary>5. Isolation</summary>  
+
+- Individual devices in a CMOS process need to be isolated from one another so that they do not have unexpected interactions.  
+- The transistor gate consists of a thin gate oxide layer.
+- The thick oxide used to be formed by a process called Local Oxidation of Silicon (LOCOS).
+- A problem with LOCOS-based processes is the transition between thick andthin oxide, which extended some distance laterally to form a so-called bird’s beak.
+- Starting around the 0.35 µm node, shallow trench isolation (STI) was introduced to avoid the problems with LOCOS.
+- STI forms insulating trenches of SiO2 surrounding the transistors (everywhere except the active area).
+<br>
+</details>  
+
+  
+  
   
 <br>
 </details>
