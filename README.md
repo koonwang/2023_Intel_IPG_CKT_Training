@@ -3,7 +3,11 @@
 ## Table of Contents
 <a href="#one">Day 1 - Fundamentals of VLSI Design and Overview of Sand-to-Silicon</a>
 <br>
-<a href="#two">Day 2 - Details of IC Manufacturing Process</a>
+<a href="#two">Day 2 - Analog VLSI Design Flow and CMOS Fabrication Process</a>
+<br>
+<a href="#three">Day 3 - CMOS Fabrication Process in DeepSubmicron (DSM) and Ultra DeepSubmicron (UDSM) Technology</a>
+<br>
+<a href="#four">Day 4 - Metal-Oxide-Semiconductor Structure</a>
 <br>
 
 <a name="user-content-one"></a>
@@ -150,7 +154,6 @@ ASIC (Application Specific Integrated Circuit)
 </details>
 
 
-
 <details>
 <summary>Assignment</summary>
 <br>
@@ -161,7 +164,7 @@ ASIC (Application Specific Integrated Circuit)
 
 
 <a name="user-content-two"></a>
-### Day 2 - Details of IC Manufacturing Process
+### Day 2 - Analog VLSI Design Flow and CMOS Fabrication Process
 
 <details>
 <summary>Theory</summary>
@@ -502,6 +505,54 @@ Question 8
   
 <br>
 </details>
+
+
+
+<a name="user-content-three"></a>
+### Day 3 - CMOS Fabrication Process in DeepSubmicron (DSM) and Ultra DeepSubmicron (UDSM) Technology
+
+<details>
+<summary>Theory</summary>
+<br>
+
+<br>
+</details>
+
+
+<details>
+<summary>Assignment</summary>
+<br>
+
+<br>
+</details>
+
+
+
+<a name="user-content-four"></a>
+### Day 4 - Metal-Oxide-Semiconductor Structure
+
+<details>
+<summary>Theory</summary>
+<br>
+
+<br>
+</details>
+
+
+<details>
+<summary>Assignment</summary>
+<br>
+
+<br>
+</details>
+
+
+
+
+
+
+
+
 
 
 
