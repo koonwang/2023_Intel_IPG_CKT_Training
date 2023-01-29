@@ -515,6 +515,55 @@ Question 8
 <summary>Theory</summary>
 <br>
 
+1. **Disadvantage of the Submicron CMOS Process**
+
+- The use of reverse bias PN junctions to isolate transistors becomes impractical as the transistor sizes decreased/depleted.
+
+![image](https://user-images.githubusercontent.com/121998024/215318848-4939ca25-d1be-4529-b0d5-3021bf8e8ef7.png)
+
+2. **Local Oxidation of Silicon (LOCOS) Isolation Process**
+(Local Oxidation of Silicon, LOCOS is the traditional isolation technique used in submicron processes.)
+
+Process Steps:
+- A very thin layer silicon dioxide is grown on the wafer, called as pad oxide. Then a layer of silicon nitride is deposited which is used as an oxide barrier.
+
+![image](https://user-images.githubusercontent.com/121998024/215322024-d310992f-c0a1-4472-945c-7d3208247ce1.png)
+
+- Then photolithography is done to pattern and etch the nitride and pad oxide where the thick oxide will be grown.
+
+![image](https://user-images.githubusercontent.com/121998024/215322100-28c3c7ba-7672-4540-9dfd-3eca34371bdf.png)
+
+- Then by thermal oxidation process thick oxide is grown in the exposed area.
+
+![image](https://user-images.githubusercontent.com/121998024/215322136-44fba5b8-ae36-4f5b-b7a3-98319e4dcfda.png)
+
+- The last step is the removal of the silicon nitride layer.
+
+![image](https://user-images.githubusercontent.com/121998024/215322272-0636722f-dff9-4037-ae08-3bebd82272c7.png)
+
+  - The disadvantage of the LOCOS technique is the bird’s beak effect and the surface area which is lost to this encroachment.
+  - The advantage of LOCOS fabrication process is simple process flow and high oxide quality because the whole LOCOS structure is thermally grown.
+
+3. **Sallow Trench Isolation Technology**
+- Shallow trench isolation (STI) allows closer spacing of transistors by eliminating the depletion region at the surface and Bird’s beak effect due to LOCOS process.
+
+![image](https://user-images.githubusercontent.com/121998024/215322742-5a972f26-b4e8-4829-b7cb-b4d744112315.png)
+
+Sallow Trench Isolation Technology Process Steps:
+- Sallow Trench Isolation (STI) isolation is the preferred isolation process for deep-submicron process because it completely avoids Bird’s beak shape characteristics.
+  
+![image](https://user-images.githubusercontent.com/121998024/215323653-3b9f4072-b0b7-46c7-b3f5-6d4eb67048ee.png)
+
+  - Cover the silicon wafer with pad oxide and silicon nitride.
+  - First etch nitride and pad oxide. Next, an anisotropic etch is made in the silicon to a depth of 0.4 to 0.5 microns.
+  - Grow a thin thermal oxide layer on the trench walls.
+  - A CVD dielectric film is used to fill the trench.
+  - A chemical mechanical polishing (CMP) step is used to polish back the dielectric layer until the nitride is reached. The nitride acts like a CMP stop layer.
+  - Densify the dielectric material at 900°C and strip the nitride and pad oxide.
+- STI advantage is more suitable for the increased density in a small area because it allows forming smaller isolation regions.
+- The disadvantage is larger number of process steps.
+
+  
 <br>
 </details>
 
