@@ -468,35 +468,35 @@ Process Steps:
 <summary>Assignment</summary>
 <br>
 
-1. Question 1
+Question 1
 
 ![image](https://user-images.githubusercontent.com/121998024/215314580-1c25f545-8968-4fc5-8b2d-3d2587a2306e.png)
 
-2. Question 2
+Question 2
   
 ![image](https://user-images.githubusercontent.com/121998024/215314602-9b5a3a44-ae52-4227-bba9-51db545cdcb9.png)
 
-3. Question 3
+Question 3
 
 ![image](https://user-images.githubusercontent.com/121998024/215314618-4e389cca-8588-448a-9b10-69f61619c2eb.png)
 
-4. Question 4
+Question 4
   
 ![image](https://user-images.githubusercontent.com/121998024/215314644-b74740f1-6a06-4726-8482-738571c8249c.png)
 
-5. Question 5
+Question 5
   
 ![image](https://user-images.githubusercontent.com/121998024/215314659-727ba0d2-ab6d-4e05-81fa-f3a2154d96d4.png)
 
-6. Question 6
+Question 6
   
 ![image](https://user-images.githubusercontent.com/121998024/215314678-a12a485b-686b-43d6-bcf0-18e3e5094fcb.png)
   
-7. Question 7
+Question 7
   
 ![image](https://user-images.githubusercontent.com/121998024/215314695-08e1d576-6cd9-4ce1-b5a1-e0403f0652ed.png)
 
-8. Question 8
+Question 8
   
 ![image](https://user-images.githubusercontent.com/121998024/215314711-913b630e-c854-4795-b02a-d598044d873e.png)
   
