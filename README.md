@@ -736,7 +736,7 @@ Final Product:
 
 9. **Disadvantage of UDSM CMOS Technology**
 
-  Analog Viewpoint:
+  **Analog Viewpoint**:
   - Reduction in power supply resulting in reduced headroom
   - Gate leakage currents
   - Reduced small signal intrinsic gain
