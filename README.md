@@ -520,6 +520,7 @@ Question 8
 - The use of reverse bias PN junctions to isolate transistors becomes impractical as the transistor sizes decreased/depleted.
 
 ![image](https://user-images.githubusercontent.com/121998024/215318848-4939ca25-d1be-4529-b0d5-3021bf8e8ef7.png)
+<br>
 
 2. **Local Oxidation of Silicon (LOCOS) Isolation Process**
 (Local Oxidation of Silicon, LOCOS is the traditional isolation technique used in submicron processes.)
@@ -543,6 +544,7 @@ Process Steps:
 
   - The disadvantage of the LOCOS technique is the bird’s beak effect and the surface area which is lost to this encroachment.
   - The advantage of LOCOS fabrication process is simple process flow and high oxide quality because the whole LOCOS structure is thermally grown.
+<br>
 
 3. **Sallow Trench Isolation Technology**
 - Shallow trench isolation (STI) allows closer spacing of transistors by eliminating the depletion region at the surface and Bird’s beak effect due to LOCOS process.
@@ -562,7 +564,183 @@ Sallow Trench Isolation Technology Process Steps:
   - Densify the dielectric material at 900°C and strip the nitride and pad oxide.
 - STI advantage is more suitable for the increased density in a small area because it allows forming smaller isolation regions.
 - The disadvantage is larger number of process steps.
+<br>
 
+4. **Deep Submicron (DSM) CMOS Technology**
+
+![image](https://user-images.githubusercontent.com/121998024/215327504-6bba5ce1-5250-40cf-87f2-0693de4adfe5.png)
+
+- Deep Submicron (DSM) technology provides:
+  - A deep n-well that can be utilized to reduce substrate noise coupling.
+  - A MOS Varactor that can be used to make voltage controlled oscillators (VCOs).
+  - Different types of resistors in deep submicron (DSM), for example: diffused and/or implanted resistors, well resistors, poly resistors, and metal resistors.
+  
+  ![image](https://user-images.githubusercontent.com/121998024/215327871-69cf1296-3e29-478f-9863-2a0e1c995988.png)
+
+  - At least 6 levels of metal that can form many useful structures such as inductors, capacitors, and transmission lines.
+  - Different types of capacitors in deep submicron (DSM), for example: Metal-Insulator-Metal (MIM) Capacitor and Polysilicon-Polysilicon Capacitor.
+  
+  ![image](https://user-images.githubusercontent.com/121998024/215328431-16db20d5-002f-4033-b632-195b7c02c8da.png)
+<br>
+
+5. Fabrication Steps for a Deep Submicron (DSM) CMOS Process  
+  
+<details>
+<summary>1. Starting Material</summary>
+  
+- The substrate should be highly doped to act like a good conductor.
+
+![image](https://user-images.githubusercontent.com/121998024/215329449-8277acff-10a2-4c8b-a7d4-a6ca5e8ff44d.png)
+<br>
+</details>  
+
+<details>
+<summary>2. n and p-well creation</summary>
+  
+- These are the areas where the transistors will be fabricated - NMOS in the p-well and PMOS in the n-well. It is done by implantation followed by a deep diffusion.
+
+![image](https://user-images.githubusercontent.com/121998024/215331025-b1f12bd7-17a1-40cb-bfbd-a31aced3a906.png)
+<br>
+</details>
+
+<details>
+<summary>3. Sallow Trench Isolation</summary>
+  
+- The shallow trench isolation (STI) electrically isolates one region/transistor from another.
+
+![image](https://user-images.githubusercontent.com/121998024/215331138-c04beaa2-df42-49b0-bfe9-8b8403155ca9.png)
+<br>
+</details>
+  
+<details>
+<summary>4. Threshold Shift and Anti-Punch through Implants</summary>
+  
+- The natural thresholds of the NMOS is about 0V and of the PMOS is about –1.2V. An p-implant is used to make the NMOS harder to invert and the PMOS easier resulting in threshold voltages balanced around zero volts.
+- Also an implant can be applied to create a higher-doped region beneath the channels to prevent punch-through from the drain depletion region extending to source depletion region.
+
+![image](https://user-images.githubusercontent.com/121998024/215331269-b6f2a4d2-15f2-4bff-885b-9fa71fddb4de.png)
+<br>
+</details>  
+  
+<details>
+<summary>5. Thin Oxide and Polysilicon Gate</summary>
+  
+- A thin oxide is deposited followed by polysilicon. These layers are removed where they are not wanted.  
+
+![image](https://user-images.githubusercontent.com/121998024/215331374-e6fb9164-9622-41e6-9ee7-79412dab82aa.png)
+<br>
+</details> 
+  
+<details>
+<summary>6. Lightly Doped Source and Drain</summary>
+  
+- A lightly-doped implant is used to create a lightly-doped source and drain next to the channel of the MOSFETs.  
+
+![image](https://user-images.githubusercontent.com/121998024/215331470-4cbf8d49-11e0-473b-9538-ef7ec6269bb6.png)
+<br>
+</details>  
+  
+<details>
+<summary>7. Sidewall Spacer</summary>
+
+- A layer of dielectric is deposited on the surface and removed in such a way as to leave “sidewall spacers” next to the thin-oxide-polysilicon-polycide sandwich. These sidewall spacers will prevent the part of the source and drain next to the channel from becoming heavily doped.  
+
+![image](https://user-images.githubusercontent.com/121998024/215331736-9855c42d-90ce-42c6-bc4f-6d5088194807.png)
+<br>
+</details>
+  
+<details>
+<summary>8. Implantation of Havily Doped Source and Drain</summary>
+
+- Note that not only does this step provide the completed sources and drains but allows for ohmic contact into the wells and substrate.
+
+![image](https://user-images.githubusercontent.com/121998024/215331805-d237fd96-c857-45be-a9d8-557a2f947df2.png)
+<br>
+</details>  
+  
+<details>
+<summary>9. Siliciding (Salicide and Polyside)</summary>
+
+- This step reduces the resistance of the bulk diffusions and polysilicon and forms an ohmic contact with material on which it is deposited.
+
+![image](https://user-images.githubusercontent.com/121998024/215331918-f87814c0-bdd1-4a59-a201-4ba1663e592c.png)
+<br>
+</details>    
+  
+<details>
+<summary>10. Intermediate Oxide Layer</summary>
+
+- An oxide layer is used to cover the transistors and to planarize the surface.
+
+![image](https://user-images.githubusercontent.com/121998024/215332122-aeb3530c-c746-44b2-9057-f9fafa15decd.png)
+<br>
+</details>
+  
+<details>
+<summary>11. First Level Metal</summary>
+
+- Tungsten plugs are built through the lower intermediate oxide layer to provide contact between the devices, wells and substrate to the first-level metal.
+
+![image](https://user-images.githubusercontent.com/121998024/215332202-432e6d8c-4155-4a8c-9546-059fba675bc0.png)
+<br>
+</details>
+  
+<details>
+<summary>12. Second Level Metal</summary>
+
+- The previous step is repeated for the second-level metal.
+
+![image](https://user-images.githubusercontent.com/121998024/215332269-7ccedad3-40c5-4898-864b-2ae4f6dddc42.png)
+  
+Final Product:
+![image](https://user-images.githubusercontent.com/121998024/215332313-0bdb5dc2-44e5-44ae-b25c-f2860c11d174.png)
+<br>
+</details>
+
+6. **Summary of Deep Submicron (DSM) CMOS Fabrication Process**
+- DSM technology typically has a minimum channel length between 0.35μm and 0.1μm
+- DSM technology addresses the problem of excessive depletion region widths in junction isolation techniques by using shallow trench isolation
+- DSM technology may have from 4 to 8 levels of metal
+- Lightly doped drains and sources are a key aspect of DSM technology  
+<br>
+
+7. **Ultra Deep Submicron (UDSM) CMOS Technology**
+USDM Technology Main Features
+- Lmin ≤ 0.1 microns
+- Minimum feature size less than 100 nanometers
+- Today’s state of the art:
+  - 22 nm drawn length
+  - 5 nm lateral diffusion (12 nm gate length)
+  - 1 nm transistor gate oxide
+  - 8 layers of copper interconnect
+- Specialized processing is used to increase drive capability and maintain low off currents
+<br>
+
+8. **Advantage of UDSM CMOS Technology**
+
+**Digital Viewpoint**:
+- Improved Ion/Ioff
+- Reduced gate capacitance
+- Higher drive current capability
+- Reduced interconnect density
+- Reduction of active power
+  
+**Analog Viewpoint**:
+- More levels of metal
+- Higher cutoff frequency
+- Higher capacitance density
+- Reduced junction capacitance per transconductance
+- More speed  
+<br>
+
+9. **Disadvantage of UDSM CMOS Technology**
+
+Analog Viewpoint:
+- Reduction in power supply resulting in reduced headroom
+- Gate leakage currents
+- Reduced small signal intrinsic gain
+- Increased nonlinearity
+- Increased noise and poorer matching
   
 <br>
 </details>
