@@ -696,6 +696,7 @@ Final Product:
 ![image](https://user-images.githubusercontent.com/121998024/215332313-0bdb5dc2-44e5-44ae-b25c-f2860c11d174.png)
 <br>
 </details>
+<br>
 
 6. **Summary of Deep Submicron (DSM) CMOS Fabrication Process**
 - DSM technology typically has a minimum channel length between 0.35μm and 0.1μm
@@ -705,42 +706,42 @@ Final Product:
 <br>
 
 7. **Ultra Deep Submicron (UDSM) CMOS Technology**
-USDM Technology Main Features
-- Lmin ≤ 0.1 microns
-- Minimum feature size less than 100 nanometers
-- Today’s state of the art:
-  - 22 nm drawn length
-  - 5 nm lateral diffusion (12 nm gate length)
-  - 1 nm transistor gate oxide
-  - 8 layers of copper interconnect
-- Specialized processing is used to increase drive capability and maintain low off currents
+  USDM Technology Main Features
+  - Lmin ≤ 0.1 microns
+  - Minimum feature size less than 100 nanometers
+  - Today’s state of the art:
+    - 22 nm drawn length
+    - 5 nm lateral diffusion (12 nm gate length)
+    - 1 nm transistor gate oxide
+    - 8 layers of copper interconnect
+  - Specialized processing is used to increase drive capability and maintain low off currents
 <br>
 
 8. **Advantage of UDSM CMOS Technology**
 
-**Digital Viewpoint**:
-- Improved Ion/Ioff
-- Reduced gate capacitance
-- Higher drive current capability
-- Reduced interconnect density
-- Reduction of active power
+ **Digital Viewpoint**:
+   - Improved Ion/Ioff
+   - Reduced gate capacitance
+   - Higher drive current capability
+   - Reduced interconnect density
+   - Reduction of active power
   
-**Analog Viewpoint**:
-- More levels of metal
-- Higher cutoff frequency
-- Higher capacitance density
-- Reduced junction capacitance per transconductance
-- More speed  
+ **Analog Viewpoint**:
+   - More levels of metal
+   - Higher cutoff frequency
+   - Higher capacitance density
+   - Reduced junction capacitance per transconductance
+   - More speed  
 <br>
 
 9. **Disadvantage of UDSM CMOS Technology**
 
-Analog Viewpoint:
-- Reduction in power supply resulting in reduced headroom
-- Gate leakage currents
-- Reduced small signal intrinsic gain
-- Increased nonlinearity
-- Increased noise and poorer matching
+  Analog Viewpoint:
+  - Reduction in power supply resulting in reduced headroom
+  - Gate leakage currents
+  - Reduced small signal intrinsic gain
+  - Increased nonlinearity
+  - Increased noise and poorer matching
   
 <br>
 </details>
