@@ -546,13 +546,13 @@ Process Steps:
   - The advantage of LOCOS fabrication process is simple process flow and high oxide quality because the whole LOCOS structure is thermally grown.
 <br>
 
-3. **Sallow Trench Isolation Technology**
+3. **Shallow Trench Isolation Technology**
 - Shallow trench isolation (STI) allows closer spacing of transistors by eliminating the depletion region at the surface and Bird’s beak effect due to LOCOS process.
 
 ![image](https://user-images.githubusercontent.com/121998024/215322742-5a972f26-b4e8-4829-b7cb-b4d744112315.png)
 
-Sallow Trench Isolation Technology Process Steps:
-- Sallow Trench Isolation (STI) isolation is the preferred isolation process for deep-submicron process because it completely avoids Bird’s beak shape characteristics.
+Shallow Trench Isolation Technology Process Steps:
+- Shallow Trench Isolation (STI) isolation is the preferred isolation process for deep-submicron process because it completely avoids Bird’s beak shape characteristics.
   
 ![image](https://user-images.githubusercontent.com/121998024/215323653-3b9f4072-b0b7-46c7-b3f5-6d4eb67048ee.png)
 
