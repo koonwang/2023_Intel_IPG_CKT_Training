@@ -751,6 +751,94 @@ Final Product:
 <summary>Assignment</summary>
 <br>
 
+**Assignment - DSM and UDSM Fabrication Process**  
+
+1. List the five basic MOS fabrication processing steps and give the purpose or function of each step.
+  - **Oxidation**
+    - Is a process of growing a layer of silicon dioxide (SiO2) on the surface of silicon wafer.
+    - It provides isolation between two layers and protects underlying material from contamination.
+  - **Diffusion**
+    - Movement of impurity atoms at the surface of the silicon into the bulk of the silicon - from higher concentration to lower concentration. Diffusion typically completed at high temperatures: 800 to 1400 °C.
+  - **Deposition**
+    - Deposition is the process by which various materials are deposited on the silicon wafer. For example: silicon nitride (Si3N4), Silicon dioxide (SiO2), Polysilicon, Aluminium and etc.
+  - **Etching**
+    - Etching is the process of selectively removing a layer of material.
+  - **Photolithography**
+    - Photolithography is a patterning process in which a photosensitive polymer is selectively exposed to light through a mask, leaving a latent image in the polymer that can then be selectively dissolved to provide patterned access to an underlying substrate.
+<br>
+  
+2. What is the difference between positive and negative photoresist and how is photoresist used?  
+  - Positive photoresist: Areas exposed to UV light are soluble in the photoresist developer solvent.
+  - Negative photoresist: Areas not exposed to UV light are soluble in the photoresist developer solvent.
+  - The photoresist is Solid organic material used in photolothography which transfers the designed pattern to the wafer surface. Photoresists have high etch reaction and adhesion properties.
+<br>
+  
+3. Sketch the approximate cross sectional view of a NMOS transistor in a p-substrate. Identify each region and identify the connections at the top surface of the integrated circuit for the source, drain, gate and bulk/substrate.
+
+![image](https://user-images.githubusercontent.com/121998024/215342954-5806225b-404c-4df7-8d48-289c2aec67ba.png)
+<br>
+
+4. Consider a mask that is opaque everywhere except for a transparent circle in the center. Metal is deposited on a substrate followed by an application of negative photoresist which is patterned with the mask described. After exposure, developing, and subsequent etching, what will remain ?
+
+![image](https://user-images.githubusercontent.com/121998024/215345231-f52d386c-2ffd-4cb1-a09c-e71d2e8317c4.png)
+<br>
+
+5. What is the difference between submicron, deep submicron and ultra-deep submicron process ?  
+
+| Comparison Feature              | Deep Submicron (DSM)                  | Ultra Deep Submicron (UDSM)       |
+| --------------------------------|:-------------------------------------:| ---------------------------------:|
+| Minimum Channel Length          | Between 0.35um and 0.1um              | Less than 0.1um                   |
+| No. of Metal Layers             | May have 4 ~ 8 levels of metal.       | 8 layers of copper interconnect   |
+| 
+<br>  
+  
+6. What are the advantages of ultra-deep submicron (UDSM) process over deep submicron (DSM) process.  
+
+   Digital Viewpoint:
+   - Improved Ion/Ioff
+   - Reduced gate capacitance
+   - Higher drive current capability
+   - Reduced interconnect density
+   - Reduction of active power
+   Analog Viewpoint:
+   - More levels of metal
+   - Higher cutoff frequency
+   - Higher capacitance density
+   - Reduced junction capacitance per transconductance
+   - More speed
+<br>
+
+7. What is the difference between LOCOS and STI process ?
+  - Local Oxidation of Silicon (LOCOS) is the traditional isolation technique.
+    - It is a simple process flow.
+    - It has high oxide quality because the whole LOCOS structure is thermally grown.
+    - LOCOS technique has significant drawback, which is the formation of bird's beak effect and the surface area which is lost to this encroachment.
+
+     ![image](https://user-images.githubusercontent.com/121998024/215347381-a0935bab-1158-4d0d-8b8d-ee05df1ab31e.png)
+
+  - Shallow Trench Isolation (STI) is the preferred isolation technique for Submicron process because it completely avoids the bird's beak shape characteristic.
+    - The main difference compared to LOCOS process is that shallow trench is etched into the silicon substrate, as shown in figure below.
+  
+    ![image](https://user-images.githubusercontent.com/121998024/215347539-0678257f-5627-4ad8-9924-efb8cb85bcdc.png)
+
+    - The disadvantage is larger number of process steps.
+<br>
+  
+8. Why for body connection a heavily doped n+ or p+ is used ?
+
+<br>
+
+9. What is use of silicide and polyside ? 
+  - Both refer to metal contacts between metal interconnect and silicon transistor terminals in the substrate.
+  - Polycide = Silicide over Polysilicon (non-self-aligned)
+  - Salicide = Self-Aligned Silicide = Polysilicon over Silicide
+<br>
+
+10. Which process steps used for control threshold voltage and punch-through effect?
+  - The 3rd step of Deep Submicron (DSM) CMOS fabrication process, which is 'Threshold Shift and Anti-Punch through Implants'.
+  - The natural thresholds of the NMOS is about 0V and of the PMOS is about –1.2V. An p-implant is used to make the NMOS harder to invert and the PMOS easier resulting in threshold voltages balanced around zero volts.
+  - Also an implant can be applied to create a higher-doped region beneath the channels to prevent punch-through from the
+drain depletion region extending to source depletion region. 
 <br>
 </details>
 
