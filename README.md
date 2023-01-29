@@ -774,13 +774,13 @@ Final Product:
 <br>
   
 3. Sketch the approximate cross sectional view of a NMOS transistor in a p-substrate. Identify each region and identify the connections at the top surface of the integrated circuit for the source, drain, gate and bulk/substrate.
-
-![image](https://user-images.githubusercontent.com/121998024/215342954-5806225b-404c-4df7-8d48-289c2aec67ba.png)
+  
+  ![image](https://user-images.githubusercontent.com/121998024/215342954-5806225b-404c-4df7-8d48-289c2aec67ba.png)
 <br>
 
 4. Consider a mask that is opaque everywhere except for a transparent circle in the center. Metal is deposited on a substrate followed by an application of negative photoresist which is patterned with the mask described. After exposure, developing, and subsequent etching, what will remain ?
 
-![image](https://user-images.githubusercontent.com/121998024/215345231-f52d386c-2ffd-4cb1-a09c-e71d2e8317c4.png)
+  ![image](https://user-images.githubusercontent.com/121998024/215345231-f52d386c-2ffd-4cb1-a09c-e71d2e8317c4.png)
 <br>
 
 5. What is the difference between submicron, deep submicron and ultra-deep submicron process ?  
@@ -788,10 +788,9 @@ Final Product:
 | Comparison Feature              | Deep Submicron (DSM)                  | Ultra Deep Submicron (UDSM)       |
 | --------------------------------|:-------------------------------------:| ---------------------------------:|
 | Minimum Channel Length          | Between 0.35um and 0.1um              | Less than 0.1um                   |
-| No. of Metal Layers             | May have 4 ~ 8 levels of metal.       | 8 layers of copper interconnect   |
-| 
-<br>  
-  
+| No. of Metal Layers             | May have 4 ~ 8 levels of metal.       | 8 layers of copper interconnect   | 
+<br>
+
 6. What are the advantages of ultra-deep submicron (UDSM) process over deep submicron (DSM) process.  
 
    Digital Viewpoint:
